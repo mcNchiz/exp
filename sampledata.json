@@ -9,7 +9,7 @@
         {
           "label": "Graph 2",
           "imgUrl": "https://quickchart.io/chart?c={type:%20%27outlabeledPie%27,data:%20{datasets:%20[{data:%20[30,%2040,%2020],backgroundColor:%20[%27rgb(255,%20205,%2086)%27,%27rgb(26,%2026,%20136)%27,%27rgb(86,%2086,%20214)%27],label:%20%27Dataset%201%27,},],labels:%20[%27Private%20HEI%27,%20%27SUC%27,%20%27LUC%27],},options:%20{title:%20{display:%20true,text:%20%27School%20Types%20participated%20in%20the%20survey%27,},%22plugins%22:%20{%22legend%22:%20false,%22outlabels%22:%20{%22text%22:%20%22%l%20%p%22,%22color%22:%20%22white%22,%22stretch%22:%2035,%22font%22:%20{%22resizable%22:%20true,%22minSize%22:%2012,%22maxSize%22:%2018}}}}}"
-        },
+        }
       ],
       "rightScreen": []
     },
