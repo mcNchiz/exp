@@ -30,5 +30,15 @@
       "leftScreen": [],
       "rightScreen": []
     }
-  }
+  },
+  "specialization": [
+    {
+      "specializationId": 0,
+      "specializationName": "Science & Mathematics"
+    },
+    {
+      "specializationId": 0,
+      "specializationName": "Information Technology"
+    }
+  ]
 }
