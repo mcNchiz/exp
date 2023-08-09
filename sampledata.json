@@ -29,16 +29,16 @@
     "exitResult": {
       "leftScreen": [],
       "rightScreen": []
-    }
-  },
-  "specialization": [
-    {
-      "specializationId": 0,
-      "specializationName": "Science & Mathematics"
     },
-    {
-      "specializationId": 0,
-      "specializationName": "Information Technology"
-    }
-  ]
+    "socioEconomicPerSpecialization": [
+      {
+        "specializationName": "Science & Mathematics",
+        "imageGraphUrl": "https://about.canva.com/wp-content/uploads/sites/3/2016/10/Bar-graph_thumb-1.png"
+      },
+      {
+        "specializationName": "Information Technology Education",
+        "imageGraphUrl": "https://about.canva.com/wp-content/uploads/sites/3/2016/10/Bar-graph_thumb-1.png"
+      }
+    ]
+  }
 }
