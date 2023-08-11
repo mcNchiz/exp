@@ -33,7 +33,12 @@
           "imgUrl": "https://quickchart.io/chart?c={type:%20%27bar%27,data:%20{labels:%20[%27January%27,%20%27February%27,%20%27March%27,%20%27April%27,%20%27May%27,%20%27June%27,%20%27July%27],datasets:%20[{label:%20%27Dataset%201%27,backgroundColor:%20%27rgba(26,%2026,%20136,%200.7)%27,borderColor:%20%27rgb(26,%2026,%20136)%27,borderWidth:%201,data:%20[[-66,%20-49],[55,%2012],[47,%20-44],[-50,%2031],[-93,%2033],[-12,%20-9],[-58,%20-1],],},{label:%20%27Dataset%202%27,backgroundColor:%20%27rgba(255,%20153,%200,%200.5)%27,borderColor:%20%27rgb(255,%20153,%200)%27,borderWidth:%201,data:%20[[92,%20-37],[-51,%2091],[-23,%20-79],[74,%2069],[-2,%20-77],[-79,%2063],[-79,%2018],],},],},options:%20{responsive:%20true,legend:%20{position:%20%27top%27,},title:%20{display:%20true,text:%20%27Chart.js%20Bar%20Chart%27,},},}"
         }
       ],
-      "rightScreen": []
+      "rightScreen": [
+        {
+          "label":"Graph",
+          "imgUrl":"https://images.unsplash.com/photo-1616928296082-defb515b2c2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=873&q=80"
+        }
+      ]
     },
     "exitResult": {
       "leftScreen": [],
