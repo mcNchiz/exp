@@ -1,0 +1,19 @@
+{
+  "id": 2,
+  "title": "Exit Survey",
+  "description": "eParticipation 2.1: Harnessing NLP for Community Participation",
+  "questionares": [
+    {
+      "id": 1,
+      "question": "Question 1",
+      "size": "small",
+      "image": "https://img.freepik.com/free-vector/illustration-data-analysis-graph_53876-18336.jpg?w=826&t=st=1692147620~exp=1692148220~hmac=66d8b438830b542243dcdeb32edb22167a058f39c9b20913b4b745a0d3f895c0"
+    },
+    {
+      "id": 2,
+      "question": "Question 2",
+      "size": "small",
+      "image": "https://images.unsplash.com/photo-1613442368724-5bea257f8cbd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzB8fGdyYXBofGVufDB8fDB8fHww&auto=format&fit=crop&w=400&q=60"
+    }
+  ]
+}
